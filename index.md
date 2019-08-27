@@ -1,8 +1,11 @@
 # Meghna Rajagopalan's First CS193 Homework
 
 Favorite things about CS193
+	
 	- There are no exams.
+	
 	- The TAs are very approachable.
+	
 	- We'll be learning tools that will be useful in future.
 
 ## Welcome to GitHub Pages
